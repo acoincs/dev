@@ -132,3 +132,36 @@ Ankit Pangasa
 
 ![alt text](image-11.png)
 
+View Ankit Pangasa’s  graphic link
+Ankit PangasaAnkit Pangasa
+   • FollowingPremium • Following
+Engineering Manager at Adobe | Ex-Google | Breaking down interviews, system design & career growth | Sharing only verified job opportunities | Opinions my own | DM for collabEngineering Manager at Adobe | Ex-Google | Breaking down interviews, system design & career growth | Sharing only verified job opportunities | Opinions my own | DM for collab
+1w •  1 week ago • Visible to anyone on or off LinkedIn
+🚀 System Design Landscape – The Bigger Picture
+
+System Design isn’t just about databases or APIs — it’s a combination of architecture, scalability, reliability, security, and thoughtful trade-offs.
+
+From:
+🏗 Architecture Fundamentals (Monoliths, Microservices, Clean Architecture)
+🌐 Networking & Communication (REST, gRPC, WebSockets, Load Balancers)
+🗄 Databases (SQL, NoSQL, Sharding, Replication)
+⚡ Performance & Caching
+🔁 Reliability & High Availability
+☁️ Cloud & DevOps
+🔐 Security & API Design
+🧠 Algorithms & Distributed Systems Concepts
+
+Great system design is about understanding how all these pieces connect.
+You don’t need to master everything at once — start small, build foundations, and layer knowledge over time.
+
+Design systems that scale.
+Build systems that last.
+Think in trade-offs. 💡
+
+Ankit Pangasa
+
+Pic credit: Rocky Bhatia
+
+hashtag#SystemDesign hashtag#SoftwareEngineering hashtag#Backend hashtag#Architecture hashtag#Cloud hashtag#Scalability
+
+![alt text](SystemDesignLandscape.gif)
