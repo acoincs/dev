@@ -165,3 +165,43 @@ Pic credit: Rocky Bhatia
 hashtag#SystemDesign hashtag#SoftwareEngineering hashtag#Backend hashtag#Architecture hashtag#Cloud hashtag#Scalability
 
 ![alt text](SystemDesignLandscape.gif)
+
+
+
+![alt text](image-12.png)
+
+View Ankit Pangasa’s  graphic link
+Ankit PangasaAnkit Pangasa
+   • FollowingPremium • Following
+Engineering Manager at Adobe | Ex-Google | Breaking down interviews, system design & career growth | Sharing only verified job opportunities | Opinions my own | DM for collabEngineering Manager at Adobe | Ex-Google | Breaking down interviews, system design & career growth | Sharing only verified job opportunities | Opinions my own | DM for collab
+1w •  1 week ago • Visible to anyone on or off LinkedIn
+
+DSA Interview Prep — What Actually Helped Me 🧠
+
+Over time, I realized cracking coding interviews isn’t about solving 500 random problems.
+It’s about mastering the core patterns.
+
+Based on my experience, most interview questions fall into a few key buckets:
+🔹 Arrays & Strings — Sliding window, two pointers, prefix sums
+🔹 Hashing — Frequency maps & fast lookups
+🔹 Linked Lists — Reversal, cycle detection
+🔹 Stacks & Queues — Monotonic stack, BFS patterns
+🔹 Binary Search — Not just on arrays, but on the answer itself
+🔹 Recursion & Backtracking — Breaking problems into decision trees
+🔹 Graphs — DFS, BFS, components
+🔹 Greedy & DP — When to optimize locally vs build states
+
+What changed things for me wasn’t grinding endlessly —
+It was recognizing patterns faster and explaining my thought process clearly.
+
+If you're preparing for interviews:
+✅ Follow for practical DSA breakdowns based on real prep experience
+✅ Save this and revisit it before your next interview
+✅ Share it with someone who’s currently preparing
+
+Consistency beats cramming. Every time. 🚀
+
+Ankit Pangasa
+
+hashtag#DSA hashtag#CodingInterview hashtag#SoftwareEngineering hashtag#InterviewPrep hashtag#LeetCode hashtag#TechCareers
+
